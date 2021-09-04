@@ -1,2 +1,2 @@
 # newProject
-Rekated to farmers
+Related to farmers
